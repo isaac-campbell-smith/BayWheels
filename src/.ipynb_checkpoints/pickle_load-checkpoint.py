@@ -3,9 +3,7 @@ import pandas as pd
 import pickle
 import os
 
-### Read all the monthly reports into one dataframe
-
-
+### Read all pickled data_frames for further analysis
 class BikeData():
     def __init__(self, files):
         self.files = files
