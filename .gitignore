@@ -1,0 +1,5 @@
+data/*
+src/.DS_STORE
+src/.ipynb_checkpoints
+Pickleit.ipynb
+bike_data.pickle
