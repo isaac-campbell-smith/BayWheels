@@ -5,7 +5,7 @@ Over the course of the next week I'll be looking at the trip data for this servi
 
 Overview of the data and their growth:
 ....ADD.........Plot
-
+alkjdfladj
 Two important but straightforward trends if my hypothesis holds, before getting into the weeds, would be:
     > More trips on the weekend (for leisure activites like doing wheelies on a novelty bike)
     > A large share of trips being short (let's say less than .1 miles)
