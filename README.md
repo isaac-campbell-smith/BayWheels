@@ -30,7 +30,7 @@ There is one huge caveat to all these findings, which is the influence of touris
 
 <p align="justify">    
 The fact that there was such a big spike in one-time trip purchases this last December seems to indicate that these are locals trying them out for the first time, and that BayWheels are likely retaining some percentage of these first-timers as new "Subscribers". It should be noted that a monthly membership is $15 for unlimited 45 minute rides, $2 for a 30 minute one time trip, or $10 for an unlimited 30 minute trip day pass (these trips are considered 'Customers' as well). All trips beyond these breakpoints incur a $3 per 15 minute chunk. The cost/benefit to a tourist visiting for more than a few days to just spring for a membership is pretty powerful, so this analysis may be completely innacurate. But the fact that trip durations cluster so strongly around 500 seconds (8 minutes) - a pretty quick trip - leads me to believe that this analysis is at least a little be right.
-    
+<p></p>    
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripDurationDistribution.png"/>
 <p></p>
 
