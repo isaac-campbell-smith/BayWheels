@@ -1,6 +1,8 @@
+<HTML>
 <p align="justify">
 As a life-long resident of Tacoma (or Seattle for those reading this abroad), I struggle to look outside the Washington way of doing things. When Bike & Scooter sharing apps started popping up a few years ago, I'd hear story after story of people throwing them into the water and see, in my opinion, entirely too many drunken joy rides on a weekend night. When I heard that the San Francisco's BayWheels publishes all their monthly trip data, I was inspired to prove this new trend is a hedonistic stain on society.
     
+
 At first glance, this BayWheels business seems to be pretty popular with almost 6,500 trips per day! If I'm right, then this will only magnify the power of my strongly worded disapproval.
  
 <p align="center">    
@@ -17,15 +19,19 @@ If I had been right, some of the observations you might expect to observe is an 
 <p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripTimeDistribution.png"/>
 <p></p>
-<div>
+
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="450" align='left'/>
-
+<p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TimevDistance.png" width="450" align='right'/>
-</div>
 
-<div>
-<p align="justify">
-There is one huge caveat to all these findings, which is the influence of tourism - who knows if any of these trips are actualy by commuters! All trip logs are anonymous so it's pretty difficult to sus out any definitive answers, but BayWheels does include whether a trip was made by a 'Subscriber' (those with a special transit card or a monthly/yearly membership) or a 'Customer' (one time use). Up until December 2019, when they unleashed a swathe of new models across the Bay, a typical monthly proportion of 'Customer' trips hovered around 12-13%, with a few percentage points increase during summer months. </p> </div>  
+
+<p></p>
+
+<br/>
+<p>
+There is one huge caveat to all these findings, which is the influence of tourism - who knows if any of these trips are actualy by commuters! All trip logs are anonymous so it's pretty difficult to sus out any definitive answers, but BayWheels does include whether a trip was made by a 'Subscriber' (those with a special transit card or a monthly/yearly membership) or a 'Customer' (one time use). Up until December 2019, when they unleashed a swathe of new models across the Bay, a typical monthly proportion of 'Customer' trips hovered around 12-13%, with a few percentage points increase during summer months. </p>  
+
+
     
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/CustomerProportion.png" width="520" align="center"/>
 
