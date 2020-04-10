@@ -63,18 +63,18 @@ class BikeData():
         return ratio.reindex(month_lst) 
         
     def weekday_v_weekend_distances(self):
-        wkday = self.df[self.df.weekend == False].distance.mean()
-        wkend = self.df[self.df.weekend == True].distance.mean()
+        wkday = self.df[self.df.weekend == False].distance.median()
+        wkend = self.df[self.df.weekend == True].distance.median()
         return wkday, wkend
 
     def weekday_v_weekend_times(self):
-        wkday = self.df[self.df.weekend == False].duration_sec.mean()
-        wkend = self.df[self.df.weekend == True].duration_sec.mean()
+        wkday = self.df[self.df.weekend == False].duration_sec.median() / 60
+        wkend = self.df[self.df.weekend == True].duration_sec.median() / 60
         return wkday, wkend
 
     def weekday_v_weekend_profits(self):
-        wkday = self.df[self.df.weekend == False].revenue.mean() / 60
-        wkend = self.df[self.df.weekend == True].revenue.mean() / 60
+        wkday = self.df[self.df.weekend == False].revenue.mean() 
+        wkend = self.df[self.df.weekend == True].revenue.mean() 
         return wkday, wkend
 
     def weekday_v_weekend_customers(self):
