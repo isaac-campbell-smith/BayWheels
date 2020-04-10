@@ -16,12 +16,13 @@ If I had been right, some of the observations you might expect to observe is an 
 <p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripTimeDistribution.png"/>
 <p></p>
-<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="440" align='left'/>
 
+<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="440" align='left'/>
+<p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TimevDistance.png" width="440" align='right'/>
 <p></p>
 <p align="justify">
-There is one huge caveat to all these findings, which is the influence of tourism - who knows if any of these trips are by work commuters! All trip logs are anonymous so it's pretty difficult to sus out any definitive answers, but BayWheels does include whether a trip was made by a 'Subscriber' (those with a special transit card or a monthly/yearly membership) or a 'Customer' (one time use). Up until December 2019, when they unleashed a swathe of new models across the Bay, a typical monthly proportion of 'Customer' trips hovered around 12-13%, with a few percentage points increase during summer months. 
+There is one huge caveat to all these findings, which is the influence of tourism - who knows if any of these trips are by work commuters! All trip logs are anonymous so it's pretty difficult to sus out any definitive answers, but BayWheels does include whether a trip was made by a 'Subscriber' (those with a special transit card or a monthly/yearly membership) or a 'Customer' (one time use). Up until December 2019, when they unleashed a swathe of new models across the Bay, a typical monthly proportion of 'Customer' trips hovered around 12-13%, with a few percentage points increase during summer months. </p>   
     
 <p align="center">    
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/CustomerProportion.png" width="520" align="center"/>
