@@ -14,6 +14,7 @@ If I had been right, some of the observations you might expect to observe is an 
 
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripsperDay.png" width="435" align='left'/>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripTimeDistribution.png" width="435" align='right'/>
+<br>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="435" align='left'/>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TimevDistance.png" width="435" align='right'/>
     
