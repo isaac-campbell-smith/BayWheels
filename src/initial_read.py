@@ -36,7 +36,7 @@ def update_df(df):
 
     time = time.apply(lambda date: pd.to_datetime(date))    
     weekends = (time.apply(lambda date: date.weekday() in [5,6])).rename('weekend') 
-                                                        #date.weekday returns a list value; 5 & 6 are Sat & Sun    
+                                         #date.weekday returns a list value; 5 & 6 are Sat & Sun    
     day_of_week = (time.apply(lambda date: day_dict[date.weekday()])).rename('day_of_week')
     
     distance = distance_calculations(df)
