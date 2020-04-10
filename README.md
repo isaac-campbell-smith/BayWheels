@@ -11,8 +11,8 @@ It turns out that I was wrong. This actually became apparent pretty quickly. And
 <p align="justify">
 If I had been right, some of the observations you might expect to observe is an uptick in weekend rides and a large proportion of trips clocked at 0 zero miles. The reality is that BayWheels is much more popular on weekdays during normal commuting hours where the typical ride is about 1 mile. San Franciscans take about 7,300 trips per week day vs 4,100 trips per weekend day.</p>
 
-<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripsperDay.png" width="420" align='left'/>
-<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="420" align='right'/>
+<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripsperDay.png" width="428" align='left'/>
+<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png" width="428" align='right'/>
     
     
 <p align="justify">
