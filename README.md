@@ -10,13 +10,16 @@ At first glance, this BayWheels business seems to be pretty popular with almost 
 It turns out that I was wrong. This actually became apparent pretty quickly. And I will admit that BayWheels seems to satisfy a pretty cool market niche for weekday commutes.
     
 <p align="justify">
-If I had been right, some of the observations you might expect to observe is an uptick in weekend rides and a large proportion of trips clocked at 0 zero miles. The reality is that BayWheels is much more popular on weekdays during normal commuting hours where the typical ride is about 1 mile. 
+If I had been right, some of the observations you might expect to observe is an uptick in weekend rides and a large proportion of trips clocked at 0 zero miles. The reality is that BayWheels is much more popular on weekdays during normal commuting hours where the typical ride is about 1 mile. That distribution does look different on the weekends, which lends to this conclusion, though doesn't support my initial assumption. Sure, there are quite a few trips logged late in the evening, but given the rest of the data and my new found attitude towards these bikes, I'm optimistic these are people making good decisions.
 <p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripsperDay.png" />
 <p></p>
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/TripTimeDistribution.png"/>
 <p></p>
-<p align="justify"> San Franciscans take about 7,300 trips per week day vs 4,100 trips per weekend day. The data also says that less than 4% of trips each month are less than 1/10th of a mile and users bike around at about 0.15 miles per minute.
+<p></p>
+<img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/WeekendTimes.png"/>
+<p></p>
+<p align="justify"> San Franciscans take about 7,300 trips per week day vs 4,100 trips per weekend day. The data also says that less than 4% of trips each month are less than 1/10th of a mile and users bike around at about 0.15 miles per minute. While there are probably troublemakers out there (there always are!), the data seems to suggest pretty wholesome usage.
 <p></p>    
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/ShortTripsProportion.png"/>
 <p></p>
