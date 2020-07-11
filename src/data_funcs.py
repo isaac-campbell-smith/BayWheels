@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import pickle
 from scipy import stats
 month_grp = ['month', 'year']
 
@@ -32,18 +31,20 @@ month_lst =[('Jan', '2018'),
 
 class BikeData():
     def __init__(self, file):
-        pickle_in = open(file, 'rb')
-        self.df = pickle.load(pickle_in)
-        pickle_in.close()
-
+        self.df = pd.read_pickle(file)
+    
     def rentals_per_month(self):
         grp = self.df.groupby(month_grp)
         return grp.size().reindex(month_lst)
 
+    def rentals_per_day(self):
+        grp = self.df.groupby(pd.Grouper(key='dt', freq='D'))
+        return grp.size()
+    
     def revenue_per_month(self):
         grp = self.df.groupby(month_grp)
         return grp.revenue.sum().reindex(month_lst)
-
+    
     def weekly_popularity(self):
         wk_group = self.df.groupby('day_of_week')
         return wk_group.size().reindex(day_lst)
