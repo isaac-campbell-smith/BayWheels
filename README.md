@@ -1,3 +1,6 @@
+
+ *** NOTE: I recently downloaded the June 2020 dataset from Lyft/BayWheels and made a few Tableau Dashboards - including a really cool heatmap of trip activity. Most of the trends and analysis I go through below using Python/Pandas/Matplotlib seem to hold up since Covid-19 distancing measures.
+ https://public.tableau.com/profile/isaac.campbell.smith#!/vizhome/BayWheels_15961568822790/Heatmap
 <p align="justify">
 As a life-long resident of Tacoma (or Seattle for those reading this abroad), I struggle to look outside the Washington way of doing things. When Bike & Scooter sharing apps started popping up a few years ago, I'd hear story after story of people throwing them into the water. I'd see, in my opinion, entirely too many drunken joy rides on an otherwise peaceful Saturday night. When I heard that San Francisco's BayWheels publishes all their monthly trip data, I was inspired to prove this new trend a hedonistic stain on society.
 
@@ -28,7 +31,7 @@ If I had been right, some of the observations you might expect to observe is an 
 
 <p align="justify">
 There is one huge caveat to this analysis, which is the influence of tourism - who knows if any of these trips are actually by commuters! All trip logs are anonymous so it's pretty difficult to sus out any definitive answers, but BayWheels does include whether a trip was made by a 'Subscriber' (those with a special transit card or a monthly/yearly membership) or a 'Customer' (one time use). Up until December 2019, when they unleashed a swathe of new models across the Bay, a typical monthly proportion of 'Customer' trips hovered around 12-13%, with a few percentage points increase during summer months. </p> 
-    
+   
 <img src="https://raw.githubusercontent.com/isaac-campbell-smith/BayWheels/master/Charts/CustomerProportion.png"/>
 
 <p align="justify">    
