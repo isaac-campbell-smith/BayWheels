@@ -1,5 +1,5 @@
 
- *** NOTE: I recently downloaded the June 2020 dataset from Lyft/BayWheels and made a few Tableau Dashboards - including a really cool heatmap of trip activity. Most of the trends and analysis I go through below using Python/Pandas/Matplotlib seem to hold up since Covid-19 distancing measures.
+ *** NOTE: I recently downloaded the June 2020 dataset from Lyft/BayWheels and made a few Tableau Dashboards - including a really cool heatmap of trip activity. Most of the trends and analysis I go through below seem to have actually changed since Covid-19 social distancing measures. 
  https://public.tableau.com/profile/isaac.campbell.smith#!/vizhome/BayWheels_15961568822790/Heatmap
 <p align="justify">
 As a life-long resident of Tacoma (or Seattle for those reading this abroad), I struggle to look outside the Washington way of doing things. When Bike & Scooter sharing apps started popping up a few years ago, I'd hear story after story of people throwing them into the water. I'd see, in my opinion, entirely too many drunken joy rides on an otherwise peaceful Saturday night. When I heard that San Francisco's BayWheels publishes all their monthly trip data, I was inspired to prove this new trend a hedonistic stain on society.
